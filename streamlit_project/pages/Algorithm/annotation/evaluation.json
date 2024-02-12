@@ -1,0 +1,1772 @@
+[
+    {
+        "ID": "clhq5eqlp030v07xzaw3ygsx2",
+        "DataRow ID": "clhq4nqq20dft075ffz7d2r79",
+        "Labeled Data": "https://storage.labelbox.com/clhq39l2x01b507zlbpdl7ajh%2F2bfd509b-85e7-5d10-b6f7-46a935317a2d-A%20mapping%20study%20on%20documentation%20in%20Continuous%20Software%20Development.pdf?Expires=1685472706800&KeyName=labelbox-assets-key-3&Signature=yQ1nSxBIrgua1VbYG6kj7in2GEo",
+        "Label": {
+            "objects": [
+                {
+                    "featureId": "clhqaezpy0002356g1ado53hy",
+                    "schemaId": "clhqadffh06p907wo1z3k7byw",
+                    "color": "#1CE6FF",
+                    "title": "title",
+                    "value": "title",
+                    "bbox": {
+                        "top": 166.667,
+                        "left": 33.333,
+                        "height": 16,
+                        "width": 437.334
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaezpy0002356g1ado53hy?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqafyyr000e356gwj57chlj",
+                    "schemaId": "clhqadffi06pd07wo6lqu9oht",
+                    "color": "#008941",
+                    "title": "keyword",
+                    "value": "keyword",
+                    "bbox": {
+                        "top": 265.333,
+                        "left": 33.333,
+                        "height": 68,
+                        "width": 110
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqafyyr000e356gwj57chlj?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqlcswz0005356gspswpbhc",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 183.299,
+                        "left": 28.474,
+                        "height": 19.575,
+                        "width": 298.972
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqlcswz0005356gspswpbhc?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqldak40008356g2ipr7m3u",
+                    "schemaId": "clhqadffi06pl07wo1a75almm",
+                    "color": "#FFDBE5",
+                    "title": "doc_type",
+                    "value": "doc_type",
+                    "bbox": {
+                        "top": 230,
+                        "left": 31,
+                        "height": 19,
+                        "width": 67
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqldak40008356g2ipr7m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqlde4s000b356g8n6cs7dr",
+                    "schemaId": "clhqadffi06pf07wohrr8gi47",
+                    "color": "#006FA6",
+                    "title": "publisher",
+                    "value": "publisher",
+                    "bbox": {
+                        "top": 111,
+                        "left": 29,
+                        "height": 21,
+                        "width": 83
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqlde4s000b356g8n6cs7dr?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqldog4000e356ggng0p436",
+                    "schemaId": "clhqadffi06pf07wohrr8gi47",
+                    "color": "#006FA6",
+                    "title": "publisher",
+                    "value": "publisher",
+                    "bbox": {
+                        "top": 724,
+                        "left": 144,
+                        "height": 16,
+                        "width": 91
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqldog4000e356ggng0p436?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqle1kq000h356gt2yptzo0",
+                    "schemaId": "clhqadffi06pl07wo1a75almm",
+                    "color": "#FFDBE5",
+                    "title": "doc_type",
+                    "value": "doc_type",
+                    "bbox": {
+                        "top": 725.333,
+                        "left": 262.667,
+                        "height": 9.334,
+                        "width": 62.666
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqle1kq000h356gt2yptzo0?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                }
+            ],
+            "classifications": [],
+            "relationships": []
+        },
+        "Created By": "31sanskrati@gmail.com",
+        "Project Name": "Research paper",
+        "Created At": "2023-05-16T13:08:25.000Z",
+        "Updated At": "2023-05-16T18:28:30.000Z",
+        "Seconds to Label": 326.952,
+        "Seconds to Review": 129.295,
+        "Seconds to Create": 197.657,
+        "External ID": "A mapping study on documentation in Continuous Software Development.pdf",
+        "Global Key": null,
+        "Agreement": -1,
+        "Is Benchmark": 0,
+        "Benchmark Agreement": -1,
+        "Benchmark ID": null,
+        "Dataset Name": "Research Papers",
+        "Reviews": [],
+        "View Label": "https://editor.labelbox.com?project=clhq4t4mc03uh07wkd0fu8lr0&label=clhq5eqlp030v07xzaw3ygsx2",
+        "Has Open Issues": 0,
+        "Skipped": false,
+        "DataRow Workflow Info": {
+            "taskName": "Done",
+            "Workflow History": [
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:41:10.358Z",
+                    "previousTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "previousTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:32:22.349Z",
+                    "previousTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "previousTaskName": "Initial review task",
+                    "nextTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "nextTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "REWORK",
+                    "createdAt": "2023-05-16T18:28:30.545Z",
+                    "previousTaskId": "b1f7deb3-e83a-0bf1-8ea3-41514a39b714",
+                    "previousTaskName": "Rework (all rejected)",
+                    "nextTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "nextTaskName": "Initial review task"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "REJECT",
+                    "createdAt": "2023-05-16T18:06:04.322Z",
+                    "previousTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "previousTaskName": "Initial review task",
+                    "nextTaskId": "b1f7deb3-e83a-0bf1-8ea3-41514a39b714",
+                    "nextTaskName": "Rework (all rejected)"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:08:25.251Z",
+                    "previousTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "previousTaskName": "Initial labeling task",
+                    "nextTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "nextTaskName": "Initial review task"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:08:25.219Z",
+                    "nextTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "nextTaskName": "Initial labeling task"
+                }
+            ]
+        }
+    },
+    {
+        "ID": "clhqadtvg004n07xxd3vh6gpp",
+        "DataRow ID": "clhq4nqq20dfx075fgd6qg3ht",
+        "Labeled Data": "https://storage.labelbox.com/clhq39l2x01b507zlbpdl7ajh%2F4c22662c-37f9-85c3-513c-c8060b3d6d28-agile-software-methods.pdf?Expires=1685472706805&KeyName=labelbox-assets-key-3&Signature=K8ySY-Vd5yEC48g8TJLkQeckDIA",
+        "Label": {
+            "objects": [
+                {
+                    "featureId": "clhqaiefi000k356gdzwxvm8u",
+                    "schemaId": "clhqadffh06p907wo1z3k7byw",
+                    "color": "#1CE6FF",
+                    "title": "title",
+                    "value": "title",
+                    "bbox": {
+                        "top": 91,
+                        "left": 42.5,
+                        "height": 20.5,
+                        "width": 282
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaiefi000k356gdzwxvm8u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqaiuld000w356g9gdkuqqb",
+                    "schemaId": "clhqadffi06ph07woe7v2e01n",
+                    "color": "#A30059",
+                    "title": "date_of_publication",
+                    "value": "date_of_publication",
+                    "bbox": {
+                        "top": 147,
+                        "left": 122.5,
+                        "height": 16,
+                        "width": 95.5
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaiuld000w356g9gdkuqqb?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqaj6yo000z356g7k8l2vo4",
+                    "schemaId": "clhqadffi06pf07wohrr8gi47",
+                    "color": "#006FA6",
+                    "title": "publisher",
+                    "value": "publisher",
+                    "bbox": {
+                        "top": 32,
+                        "left": 40.5,
+                        "height": 11.5,
+                        "width": 82
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaj6yo000z356g7k8l2vo4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqlez0s000k356gk5gvnv9c",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 117.333,
+                        "left": 42,
+                        "height": 22,
+                        "width": 225.333
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqlez0s000k356gk5gvnv9c?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                }
+            ],
+            "classifications": [],
+            "relationships": []
+        },
+        "Created By": "31sanskrati@gmail.com",
+        "Project Name": "Research paper",
+        "Created At": "2023-05-16T13:09:34.000Z",
+        "Updated At": "2023-05-16T18:28:37.000Z",
+        "Seconds to Label": 98.903,
+        "Seconds to Review": 36.8,
+        "Seconds to Create": 62.103,
+        "External ID": "agile-software-methods.pdf",
+        "Global Key": null,
+        "Agreement": -1,
+        "Is Benchmark": 0,
+        "Benchmark Agreement": -1,
+        "Benchmark ID": null,
+        "Dataset Name": "Research Papers",
+        "Reviews": [],
+        "View Label": "https://editor.labelbox.com?project=clhq4t4mc03uh07wkd0fu8lr0&label=clhqadtvg004n07xxd3vh6gpp",
+        "Has Open Issues": 0,
+        "Skipped": false,
+        "DataRow Workflow Info": {
+            "taskName": "Done",
+            "Workflow History": [
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:41:14.151Z",
+                    "previousTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "previousTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:32:29.958Z",
+                    "previousTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "previousTaskName": "Initial review task",
+                    "nextTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "nextTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "REWORK",
+                    "createdAt": "2023-05-16T18:28:37.562Z",
+                    "previousTaskId": "b1f7deb3-e83a-0bf1-8ea3-41514a39b714",
+                    "previousTaskName": "Rework (all rejected)",
+                    "nextTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "nextTaskName": "Initial review task"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "REJECT",
+                    "createdAt": "2023-05-16T18:06:12.674Z",
+                    "previousTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "previousTaskName": "Initial review task",
+                    "nextTaskId": "b1f7deb3-e83a-0bf1-8ea3-41514a39b714",
+                    "nextTaskName": "Rework (all rejected)"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:09:34.264Z",
+                    "previousTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "previousTaskName": "Initial labeling task",
+                    "nextTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "nextTaskName": "Initial review task"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:09:34.235Z",
+                    "nextTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "nextTaskName": "Initial labeling task"
+                }
+            ]
+        }
+    },
+    {
+        "ID": "clhqai21w00t007xw3sxefhvs",
+        "DataRow ID": "clhq4nqq20dg1075ffc2h9fwo",
+        "Labeled Data": "https://storage.labelbox.com/clhq39l2x01b507zlbpdl7ajh%2F19b2e3de-05f0-18f6-4769-65341f96873b-Analysis-of-Software-Development-Methodologies.pdf?Expires=1685472706805&KeyName=labelbox-assets-key-3&Signature=cfsSyx2JSLuGu8dgnaojNWwuRNQ",
+        "Label": {
+            "objects": [
+                {
+                    "featureId": "clhqakm7w0012356gzba974l0",
+                    "schemaId": "clhqadffh06p907wo1z3k7byw",
+                    "color": "#1CE6FF",
+                    "title": "title",
+                    "value": "title",
+                    "bbox": {
+                        "top": 146,
+                        "left": 105.333,
+                        "height": 27.333,
+                        "width": 389.334
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqakm7w0012356gzba974l0?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqakrkx0015356g8cdzpfca",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 180,
+                        "left": 120,
+                        "height": 17.333,
+                        "width": 63.333
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqakrkx0015356g8cdzpfca?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqakx4f0018356gnld4h4rt",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 180,
+                        "left": 189.333,
+                        "height": 16,
+                        "width": 57.334
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqakx4f0018356gnld4h4rt?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqal3f8001b356gh939yajv",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 180.667,
+                        "left": 253.333,
+                        "height": 13.333,
+                        "width": 86
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqal3f8001b356gh939yajv?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqalalz001e356gtfuzq2rn",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 180,
+                        "left": 364,
+                        "height": 18,
+                        "width": 98.667
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqalalz001e356gtfuzq2rn?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqalmcn001h356gd3ag6z4l",
+                    "schemaId": "clhqadffi06pd07wo6lqu9oht",
+                    "color": "#008941",
+                    "title": "keyword",
+                    "value": "keyword",
+                    "bbox": {
+                        "top": 393.333,
+                        "left": 50,
+                        "height": 18,
+                        "width": 401.333
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqalmcn001h356gd3ag6z4l?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqaltz6001k356gqnwt4xfn",
+                    "schemaId": "clhqadffi06ph07woe7v2e01n",
+                    "color": "#A30059",
+                    "title": "date_of_publication",
+                    "value": "date_of_publication",
+                    "bbox": {
+                        "top": 256,
+                        "left": 378,
+                        "height": 18,
+                        "width": 89.333
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaltz6001k356gqnwt4xfn?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqalz6m001n356gidlnyefw",
+                    "schemaId": "clhqadffi06pf07wohrr8gi47",
+                    "color": "#006FA6",
+                    "title": "publisher",
+                    "value": "publisher",
+                    "bbox": {
+                        "top": 74,
+                        "left": 244,
+                        "height": 20,
+                        "width": 300.667
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqalz6m001n356gidlnyefw?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqamd08001q356gld9hkxrt",
+                    "schemaId": "clhqadffi06pl07wo1a75almm",
+                    "color": "#FFDBE5",
+                    "title": "doc_type",
+                    "value": "doc_type",
+                    "bbox": {
+                        "top": 66,
+                        "left": 318.667,
+                        "height": 35.333,
+                        "width": 46
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqamd08001q356gld9hkxrt?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                }
+            ],
+            "classifications": [],
+            "relationships": []
+        },
+        "Created By": "31sanskrati@gmail.com",
+        "Project Name": "Research paper",
+        "Created At": "2023-05-16T13:12:07.000Z",
+        "Updated At": "2023-05-16T13:12:07.000Z",
+        "Seconds to Label": 185.896,
+        "Seconds to Review": 33.849,
+        "Seconds to Create": 152.047,
+        "External ID": "Analysis-of-Software-Development-Methodologies.pdf",
+        "Global Key": null,
+        "Agreement": -1,
+        "Is Benchmark": 0,
+        "Benchmark Agreement": -1,
+        "Benchmark ID": null,
+        "Dataset Name": "Research Papers",
+        "Reviews": [],
+        "View Label": "https://editor.labelbox.com?project=clhq4t4mc03uh07wkd0fu8lr0&label=clhqai21w00t007xw3sxefhvs",
+        "Has Open Issues": 0,
+        "Skipped": false,
+        "DataRow Workflow Info": {
+            "taskName": "Done",
+            "Workflow History": [
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:34:59.992Z",
+                    "previousTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "previousTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:06:21.247Z",
+                    "previousTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "previousTaskName": "Initial review task",
+                    "nextTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "nextTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:12:06.807Z",
+                    "previousTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "previousTaskName": "Initial labeling task",
+                    "nextTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "nextTaskName": "Initial review task"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:12:06.787Z",
+                    "nextTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "nextTaskName": "Initial labeling task"
+                }
+            ]
+        }
+    },
+    {
+        "ID": "clhqajj8h07zu07vs61l47pdq",
+        "DataRow ID": "clhq4nqq20dg5075fdkyu3nrx",
+        "Labeled Data": "https://storage.labelbox.com/clhq39l2x01b507zlbpdl7ajh%2F3c16aff7-540d-5e21-84f4-f04a100680cb-automation-software-architecture.pdf?Expires=1685472706805&KeyName=labelbox-assets-key-3&Signature=HCzVoE6ck8VFUsyo38qlivNvedM",
+        "Label": {
+            "objects": [
+                {
+                    "featureId": "clhqanq8f001t356gmr15nfvg",
+                    "schemaId": "clhqadffh06p907wo1z3k7byw",
+                    "color": "#1CE6FF",
+                    "title": "title",
+                    "value": "title",
+                    "bbox": {
+                        "top": 101.333,
+                        "left": 47.333,
+                        "height": 42,
+                        "width": 456.667
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqanq8f001t356gmr15nfvg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqanvgo001w356g1gxwcsmx",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 156.667,
+                        "left": 46,
+                        "height": 13.333,
+                        "width": 93.333
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqanvgo001w356g1gxwcsmx?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqao2en001z356gceskq5xa",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 157.333,
+                        "left": 147.333,
+                        "height": 14.667,
+                        "width": 87.334
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqao2en001z356gceskq5xa?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqao7hi0022356gs2se6ppb",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 152.667,
+                        "left": 253.333,
+                        "height": 22,
+                        "width": 66.667
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqao7hi0022356gs2se6ppb?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqaobvt0025356gn7285kw6",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 155.333,
+                        "left": 336,
+                        "height": 18.667,
+                        "width": 74
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaobvt0025356gn7285kw6?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqaog980028356g7ebrd9d6",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 154.667,
+                        "left": 418,
+                        "height": 21.333,
+                        "width": 72.667
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaog980028356g7ebrd9d6?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqaol01002b356g8q37br76",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 170.667,
+                        "left": 48,
+                        "height": 17.333,
+                        "width": 66.667
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaol01002b356g8q37br76?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqaor3v002e356guc503ku4",
+                    "schemaId": "clhqadffi06ph07woe7v2e01n",
+                    "color": "#A30059",
+                    "title": "date_of_publication",
+                    "value": "date_of_publication",
+                    "bbox": {
+                        "top": 194.667,
+                        "left": 222.667,
+                        "height": 20,
+                        "width": 112.666
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaor3v002e356guc503ku4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqap19k002h356gt3d3flbf",
+                    "schemaId": "clhqadffi06pd07wo6lqu9oht",
+                    "color": "#008941",
+                    "title": "keyword",
+                    "value": "keyword",
+                    "bbox": {
+                        "top": 410.667,
+                        "left": 36,
+                        "height": 20.666,
+                        "width": 474
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqap19k002h356gt3d3flbf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqapbao002k356gwkja8u5z",
+                    "schemaId": "clhqadffi06pf07wohrr8gi47",
+                    "color": "#006FA6",
+                    "title": "publisher",
+                    "value": "publisher",
+                    "bbox": {
+                        "top": 28,
+                        "left": 38,
+                        "height": 16.667,
+                        "width": 93.333
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqapbao002k356gwkja8u5z?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                }
+            ],
+            "classifications": [],
+            "relationships": []
+        },
+        "Created By": "31sanskrati@gmail.com",
+        "Project Name": "Research paper",
+        "Created At": "2023-05-16T13:14:10.000Z",
+        "Updated At": "2023-05-16T13:14:10.000Z",
+        "Seconds to Label": 128.058,
+        "Seconds to Review": 1.942,
+        "Seconds to Create": 126.116,
+        "External ID": "automation-software-architecture.pdf",
+        "Global Key": null,
+        "Agreement": -1,
+        "Is Benchmark": 0,
+        "Benchmark Agreement": -1,
+        "Benchmark ID": null,
+        "Dataset Name": "Research Papers",
+        "Reviews": [],
+        "View Label": "https://editor.labelbox.com?project=clhq4t4mc03uh07wkd0fu8lr0&label=clhqajj8h07zu07vs61l47pdq",
+        "Has Open Issues": 0,
+        "Skipped": false,
+        "DataRow Workflow Info": {
+            "taskName": "Done",
+            "Workflow History": [
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:35:05.064Z",
+                    "previousTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "previousTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:04:42.880Z",
+                    "previousTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "previousTaskName": "Initial review task",
+                    "nextTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "nextTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:14:09.731Z",
+                    "previousTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "previousTaskName": "Initial labeling task",
+                    "nextTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "nextTaskName": "Initial review task"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:14:09.703Z",
+                    "nextTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "nextTaskName": "Initial labeling task"
+                }
+            ]
+        }
+    },
+    {
+        "ID": "clhqamt4007iq07wi33qsfkan",
+        "DataRow ID": "clhq4nqq20dg9075f2rw37ds1",
+        "Labeled Data": "https://storage.labelbox.com/clhq39l2x01b507zlbpdl7ajh%2Feffe7e16-07a0-db94-1150-06c902c55834-blockchain-software-patterns.pdf?Expires=1685472706806&KeyName=labelbox-assets-key-3&Signature=u9U_mssAX1WCRJkPHzHkXt2RnbM",
+        "Label": {
+            "objects": [
+                {
+                    "featureId": "clhqappjk002n356gxa2nat4p",
+                    "schemaId": "clhqadffh06p907wo1z3k7byw",
+                    "color": "#1CE6FF",
+                    "title": "title",
+                    "value": "title",
+                    "bbox": {
+                        "top": 164,
+                        "left": 31.333,
+                        "height": 40,
+                        "width": 458
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqappjk002n356gxa2nat4p?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqaqj65002z356g19g93xhn",
+                    "schemaId": "clhqadffi06pd07wo6lqu9oht",
+                    "color": "#008941",
+                    "title": "keyword",
+                    "value": "keyword",
+                    "bbox": {
+                        "top": 281.333,
+                        "left": 31.333,
+                        "height": 46.667,
+                        "width": 66.667
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaqj65002z356g19g93xhn?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqlfur8000n356gwwcevy90",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 208,
+                        "left": 33,
+                        "height": 17,
+                        "width": 235
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqlfur8000n356gwwcevy90?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqlg6tu000q356g073lih8d",
+                    "schemaId": "clhqadffi06pl07wo1a75almm",
+                    "color": "#FFDBE5",
+                    "title": "doc_type",
+                    "value": "doc_type",
+                    "bbox": {
+                        "top": 256.5,
+                        "left": 35.5,
+                        "height": 18.5,
+                        "width": 51.5
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqlg6tu000q356g073lih8d?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqlgsi6000t356gs7o248h8",
+                    "schemaId": "clhqadffi06pf07wohrr8gi47",
+                    "color": "#006FA6",
+                    "title": "publisher",
+                    "value": "publisher",
+                    "bbox": {
+                        "top": 718,
+                        "left": 141.5,
+                        "height": 10,
+                        "width": 88.5
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqlgsi6000t356gs7o248h8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqlh2z4000w356gz3hg420o",
+                    "schemaId": "clhqadffi06ph07woe7v2e01n",
+                    "color": "#A30059",
+                    "title": "date_of_publication",
+                    "value": "date_of_publication",
+                    "bbox": {
+                        "top": 706.5,
+                        "left": 272,
+                        "height": 10,
+                        "width": 85.5
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqlh2z4000w356gz3hg420o?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqlhc2z000z356ght12lxxi",
+                    "schemaId": "clhqadffh06p907wo1z3k7byw",
+                    "color": "#1CE6FF",
+                    "title": "title",
+                    "value": "title",
+                    "bbox": {
+                        "top": 33,
+                        "left": 401,
+                        "height": 14.5,
+                        "width": 113
+                    },
+                    "page": 2,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqlhc2z000z356ght12lxxi?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                }
+            ],
+            "classifications": [],
+            "relationships": []
+        },
+        "Created By": "31sanskrati@gmail.com",
+        "Project Name": "Research paper",
+        "Created At": "2023-05-16T13:15:47.000Z",
+        "Updated At": "2023-05-16T18:28:43.000Z",
+        "Seconds to Label": 233.172,
+        "Seconds to Review": 134.364,
+        "Seconds to Create": 98.808,
+        "External ID": "blockchain-software-patterns.pdf",
+        "Global Key": null,
+        "Agreement": -1,
+        "Is Benchmark": 0,
+        "Benchmark Agreement": -1,
+        "Benchmark ID": null,
+        "Dataset Name": "Research Papers",
+        "Reviews": [],
+        "View Label": "https://editor.labelbox.com?project=clhq4t4mc03uh07wkd0fu8lr0&label=clhqamt4007iq07wi33qsfkan",
+        "Has Open Issues": 0,
+        "Skipped": false,
+        "DataRow Workflow Info": {
+            "taskName": "Done",
+            "Workflow History": [
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:41:23.359Z",
+                    "previousTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "previousTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:32:38.012Z",
+                    "previousTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "previousTaskName": "Initial review task",
+                    "nextTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "nextTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "REWORK",
+                    "createdAt": "2023-05-16T18:28:43.877Z",
+                    "previousTaskId": "b1f7deb3-e83a-0bf1-8ea3-41514a39b714",
+                    "previousTaskName": "Rework (all rejected)",
+                    "nextTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "nextTaskName": "Initial review task"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "REJECT",
+                    "createdAt": "2023-05-16T18:05:02.463Z",
+                    "previousTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "previousTaskName": "Initial review task",
+                    "nextTaskId": "b1f7deb3-e83a-0bf1-8ea3-41514a39b714",
+                    "nextTaskName": "Rework (all rejected)"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:15:47.193Z",
+                    "previousTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "previousTaskName": "Initial labeling task",
+                    "nextTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "nextTaskName": "Initial review task"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:15:47.155Z",
+                    "nextTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "nextTaskName": "Initial labeling task"
+                }
+            ]
+        }
+    },
+    {
+        "ID": "clhqapfzw06ne07wr6j3932zr",
+        "DataRow ID": "clhq4nqq20dgd075fcxpmgt6j",
+        "Labeled Data": "https://storage.labelbox.com/clhq39l2x01b507zlbpdl7ajh%2F47d516ff-946c-08ed-946d-b74d5e1cce3b-designing-software.pdf?Expires=1685472706806&KeyName=labelbox-assets-key-3&Signature=BgJ4JQjdOXjbrltJEA22RshmuJ4",
+        "Label": {
+            "objects": [
+                {
+                    "featureId": "clhqas17q0032356gc2exh05m",
+                    "schemaId": "clhqadffh06p907wo1z3k7byw",
+                    "color": "#1CE6FF",
+                    "title": "title",
+                    "value": "title",
+                    "bbox": {
+                        "top": 126.667,
+                        "left": 67.333,
+                        "height": 28.666,
+                        "width": 478.667
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqas17q0032356gc2exh05m?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqas57p0035356gt6b6ra4q",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 164,
+                        "left": 64.667,
+                        "height": 15.333,
+                        "width": 95.333
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqas57p0035356gt6b6ra4q?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqas9gx0038356gxexvhqcl",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 162,
+                        "left": 165.333,
+                        "height": 19.333,
+                        "width": 101.334
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqas9gx0038356gxexvhqcl?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqasdbc003b356ggso3buzs",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 162.667,
+                        "left": 269.333,
+                        "height": 18.666,
+                        "width": 82.667
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqasdbc003b356ggso3buzs?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqashc8003e356g2lfo2rwg",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 164.667,
+                        "left": 356.667,
+                        "height": 17.333,
+                        "width": 92
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqashc8003e356g2lfo2rwg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqasklt003h356gp2o5i78y",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 164,
+                        "left": 466.667,
+                        "height": 16,
+                        "width": 87.333
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqasklt003h356gp2o5i78y?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqasofr003k356gdj32s93e",
+                    "schemaId": "clhqadffi06pd07wo6lqu9oht",
+                    "color": "#008941",
+                    "title": "keyword",
+                    "value": "keyword",
+                    "bbox": {
+                        "top": 564.667,
+                        "left": 139.333,
+                        "height": 26.666,
+                        "width": 340
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqasofr003k356gdj32s93e?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqasuly003n356guz7pjivd",
+                    "schemaId": "clhqadffi06pf07wohrr8gi47",
+                    "color": "#006FA6",
+                    "title": "publisher",
+                    "value": "publisher",
+                    "bbox": {
+                        "top": 49.333,
+                        "left": 425.333,
+                        "height": 31.334,
+                        "width": 132.667
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqasuly003n356guz7pjivd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqasz25003q356gq46zrhdv",
+                    "schemaId": "clhqadffi06pl07wo1a75almm",
+                    "color": "#FFDBE5",
+                    "title": "doc_type",
+                    "value": "doc_type",
+                    "bbox": {
+                        "top": 82,
+                        "left": 61.333,
+                        "height": 15.333,
+                        "width": 58.667
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqasz25003q356gq46zrhdv?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqat8qp003t356gxhsmits3",
+                    "schemaId": "clhqadffi06ph07woe7v2e01n",
+                    "color": "#A30059",
+                    "title": "date_of_publication",
+                    "value": "date_of_publication",
+                    "bbox": {
+                        "top": 223.333,
+                        "left": 312,
+                        "height": 16,
+                        "width": 108
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqat8qp003t356gxhsmits3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqattub003w356gdnpyrvx3",
+                    "schemaId": "clhqadffi06pj07wo4xjx34fr",
+                    "color": "#FFDBE5",
+                    "title": "volume",
+                    "value": "volume",
+                    "bbox": {
+                        "top": 68,
+                        "left": 431.333,
+                        "height": 17.333,
+                        "width": 118.667
+                    },
+                    "page": 2,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqattub003w356gdnpyrvx3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                }
+            ],
+            "classifications": [],
+            "relationships": []
+        },
+        "Created By": "31sanskrati@gmail.com",
+        "Project Name": "Research paper",
+        "Created At": "2023-05-16T13:17:37.000Z",
+        "Updated At": "2023-05-16T13:17:37.000Z",
+        "Seconds to Label": 109.935,
+        "Seconds to Review": 9.027,
+        "Seconds to Create": 100.908,
+        "External ID": "designing-software.pdf",
+        "Global Key": null,
+        "Agreement": -1,
+        "Is Benchmark": 0,
+        "Benchmark Agreement": -1,
+        "Benchmark ID": null,
+        "Dataset Name": "Research Papers",
+        "Reviews": [],
+        "View Label": "https://editor.labelbox.com?project=clhq4t4mc03uh07wkd0fu8lr0&label=clhqapfzw06ne07wr6j3932zr",
+        "Has Open Issues": 0,
+        "Skipped": false,
+        "DataRow Workflow Info": {
+            "taskName": "Done",
+            "Workflow History": [
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:35:06.144Z",
+                    "previousTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "previousTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:05:09.421Z",
+                    "previousTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "previousTaskName": "Initial review task",
+                    "nextTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "nextTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:17:36.810Z",
+                    "previousTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "previousTaskName": "Initial labeling task",
+                    "nextTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "nextTaskName": "Initial review task"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:17:36.783Z",
+                    "nextTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "nextTaskName": "Initial labeling task"
+                }
+            ]
+        }
+    },
+    {
+        "ID": "clhqariz400yu07ynb6rg2pew",
+        "DataRow ID": "clhq4nqq20dgh075f511p80jp",
+        "Labeled Data": "https://storage.labelbox.com/clhq39l2x01b507zlbpdl7ajh%2Fedeee4e1-57a4-41d0-d1d2-4a1508afad56-devops-and-software-quality.pdf?Expires=1685472706806&KeyName=labelbox-assets-key-3&Signature=7t5OlpdOm0Ac_gcAM0deRf6cYfE",
+        "Label": {
+            "objects": [
+                {
+                    "featureId": "clhqaumrw003z356gr25rjsak",
+                    "schemaId": "clhqadffh06p907wo1z3k7byw",
+                    "color": "#1CE6FF",
+                    "title": "title",
+                    "value": "title",
+                    "bbox": {
+                        "top": 158,
+                        "left": 33.333,
+                        "height": 24.667,
+                        "width": 343.334
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaumrw003z356gr25rjsak?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqaur0n0042356gwlimgb4n",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 182,
+                        "left": 32.667,
+                        "height": 20,
+                        "width": 70.666
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaur0n0042356gwlimgb4n?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqauttk0045356garato1rh",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 185.333,
+                        "left": 120.667,
+                        "height": 16.667,
+                        "width": 80
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqauttk0045356garato1rh?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqauzc50048356gdngzp1wh",
+                    "schemaId": "clhqadffi06pd07wo6lqu9oht",
+                    "color": "#008941",
+                    "title": "keyword",
+                    "value": "keyword",
+                    "bbox": {
+                        "top": 308.667,
+                        "left": 28,
+                        "height": 77.333,
+                        "width": 83.333
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqauzc50048356gdngzp1wh?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqav6oy004b356grr6gjifb",
+                    "schemaId": "clhqadffi06pf07wohrr8gi47",
+                    "color": "#006FA6",
+                    "title": "publisher",
+                    "value": "publisher",
+                    "bbox": {
+                        "top": 112.667,
+                        "left": 33.333,
+                        "height": 19.333,
+                        "width": 72
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqav6oy004b356grr6gjifb?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqavpqi004e356gxupcnofy",
+                    "schemaId": "clhqadffi06pl07wo1a75almm",
+                    "color": "#FFDBE5",
+                    "title": "doc_type",
+                    "value": "doc_type",
+                    "bbox": {
+                        "top": 143.333,
+                        "left": 35.333,
+                        "height": 12,
+                        "width": 75.334
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqavpqi004e356gxupcnofy?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                }
+            ],
+            "classifications": [],
+            "relationships": []
+        },
+        "Created By": "31sanskrati@gmail.com",
+        "Project Name": "Research paper",
+        "Created At": "2023-05-16T13:19:19.000Z",
+        "Updated At": "2023-05-16T13:19:19.000Z",
+        "Seconds to Label": 111.914,
+        "Seconds to Review": 10.697,
+        "Seconds to Create": 101.217,
+        "External ID": "devops-and-software-quality.pdf",
+        "Global Key": null,
+        "Agreement": -1,
+        "Is Benchmark": 0,
+        "Benchmark Agreement": -1,
+        "Benchmark ID": null,
+        "Dataset Name": "Research Papers",
+        "Reviews": [],
+        "View Label": "https://editor.labelbox.com?project=clhq4t4mc03uh07wkd0fu8lr0&label=clhqariz400yu07ynb6rg2pew",
+        "Has Open Issues": 0,
+        "Skipped": false,
+        "DataRow Workflow Info": {
+            "taskName": "Done",
+            "Workflow History": [
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:35:10.245Z",
+                    "previousTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "previousTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:05:18.944Z",
+                    "previousTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "previousTaskName": "Initial review task",
+                    "nextTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "nextTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:19:18.709Z",
+                    "previousTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "previousTaskName": "Initial labeling task",
+                    "nextTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "nextTaskName": "Initial review task"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:19:18.682Z",
+                    "nextTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "nextTaskName": "Initial labeling task"
+                }
+            ]
+        }
+    },
+    {
+        "ID": "clhqatvos01sh07yqeg4x6833",
+        "DataRow ID": "clhq4nqq20dgl075f7yhj37nv",
+        "Labeled Data": "https://storage.labelbox.com/clhq39l2x01b507zlbpdl7ajh%2F45b88942-852d-1fba-8d15-6215e9438bf7-journals-of-system-and-software.pdf?Expires=1685472706807&KeyName=labelbox-assets-key-3&Signature=eIEkK2iTRl26gffd8etbIBwJEM4",
+        "Label": {
+            "objects": [
+                {
+                    "featureId": "clhqawczx004h356gxpaclhxi",
+                    "schemaId": "clhqadffh06p907wo1z3k7byw",
+                    "color": "#1CE6FF",
+                    "title": "title",
+                    "value": "title",
+                    "bbox": {
+                        "top": 158.667,
+                        "left": 32.667,
+                        "height": 38.666,
+                        "width": 459.333
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqawczx004h356gxpaclhxi?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqaxgnj0052356g6pz3kb4x",
+                    "schemaId": "clhqadffi06pd07wo6lqu9oht",
+                    "color": "#008941",
+                    "title": "keyword",
+                    "value": "keyword",
+                    "bbox": {
+                        "top": 338,
+                        "left": 30,
+                        "height": 40.667,
+                        "width": 111.333
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaxgnj0052356g6pz3kb4x?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqaxlb30055356g08q7fxpg",
+                    "schemaId": "clhqadffi06pf07wohrr8gi47",
+                    "color": "#006FA6",
+                    "title": "publisher",
+                    "value": "publisher",
+                    "bbox": {
+                        "top": 112,
+                        "left": 31.333,
+                        "height": 17.333,
+                        "width": 76.667
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaxlb30055356g08q7fxpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqaycq00058356gbv9y3nkr",
+                    "schemaId": "clhqadffi06pl07wo1a75almm",
+                    "color": "#FFDBE5",
+                    "title": "doc_type",
+                    "value": "doc_type",
+                    "bbox": {
+                        "top": 444,
+                        "left": 413.333,
+                        "height": 8.667,
+                        "width": 67.334
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaycq00058356gbv9y3nkr?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqli54c0012356gob7815ab",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 197,
+                        "left": 29,
+                        "height": 35,
+                        "width": 368
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqli54c0012356gob7815ab?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqlib4a0015356ghnmy3rt5",
+                    "schemaId": "clhqadffi06pl07wo1a75almm",
+                    "color": "#FFDBE5",
+                    "title": "doc_type",
+                    "value": "doc_type",
+                    "bbox": {
+                        "top": 264,
+                        "left": 29,
+                        "height": 22,
+                        "width": 71
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqlib4a0015356ghnmy3rt5?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqlim360018356gt94ob7ki",
+                    "schemaId": "clhqadffi06pf07wohrr8gi47",
+                    "color": "#006FA6",
+                    "title": "publisher",
+                    "value": "publisher",
+                    "bbox": {
+                        "top": 444.667,
+                        "left": 292.667,
+                        "height": 11.333,
+                        "width": 88
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqlim360018356gt94ob7ki?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                }
+            ],
+            "classifications": [],
+            "relationships": []
+        },
+        "Created By": "31sanskrati@gmail.com",
+        "Project Name": "Research paper",
+        "Created At": "2023-05-16T13:21:10.000Z",
+        "Updated At": "2023-05-16T18:28:53.000Z",
+        "Seconds to Label": 213.032,
+        "Seconds to Review": 99.334,
+        "Seconds to Create": 113.698,
+        "External ID": "journals-of-system-and-software.pdf",
+        "Global Key": null,
+        "Agreement": -1,
+        "Is Benchmark": 0,
+        "Benchmark Agreement": -1,
+        "Benchmark ID": null,
+        "Dataset Name": "Research Papers",
+        "Reviews": [],
+        "View Label": "https://editor.labelbox.com?project=clhq4t4mc03uh07wkd0fu8lr0&label=clhqatvos01sh07yqeg4x6833",
+        "Has Open Issues": 0,
+        "Skipped": false,
+        "DataRow Workflow Info": {
+            "taskName": "Done",
+            "Workflow History": [
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:41:25.206Z",
+                    "previousTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "previousTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:32:48.225Z",
+                    "previousTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "previousTaskName": "Initial review task",
+                    "nextTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "nextTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "REWORK",
+                    "createdAt": "2023-05-16T18:28:52.099Z",
+                    "previousTaskId": "b1f7deb3-e83a-0bf1-8ea3-41514a39b714",
+                    "previousTaskName": "Rework (all rejected)",
+                    "nextTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "nextTaskName": "Initial review task"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "REJECT",
+                    "createdAt": "2023-05-16T18:05:34.146Z",
+                    "previousTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "previousTaskName": "Initial review task",
+                    "nextTaskId": "b1f7deb3-e83a-0bf1-8ea3-41514a39b714",
+                    "nextTaskName": "Rework (all rejected)"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:21:10.601Z",
+                    "previousTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "previousTaskName": "Initial labeling task",
+                    "nextTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "nextTaskName": "Initial review task"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:21:10.568Z",
+                    "nextTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "nextTaskName": "Initial labeling task"
+                }
+            ]
+        }
+    },
+    {
+        "ID": "clhqaw26l00jd07xx4pwb4pqi",
+        "DataRow ID": "clhq4nqq20dgp075f0jzw7r2j",
+        "Labeled Data": "https://storage.labelbox.com/clhq39l2x01b507zlbpdl7ajh%2Fd5c2932a-d6b5-a706-8bb1-6248e564a8c9-mathematics-09-01276.pdf?Expires=1685472706807&KeyName=labelbox-assets-key-3&Signature=FFcCtBiimsbWJbQ0vEoGUG0eeu0",
+        "Label": {
+            "objects": [
+                {
+                    "featureId": "clhqazj0k005b356gqjpia0z4",
+                    "schemaId": "clhqadffh06p907wo1z3k7byw",
+                    "color": "#1CE6FF",
+                    "title": "title",
+                    "value": "title",
+                    "bbox": {
+                        "top": 111.333,
+                        "left": 30.667,
+                        "height": 27.334,
+                        "width": 444.666
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqazj0k005b356gqjpia0z4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqaznrd005e356gb698hmf4",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 146,
+                        "left": 28.667,
+                        "height": 20.667,
+                        "width": 74
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqaznrd005e356gb698hmf4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqazqsn005h356gfkeavpze",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 145.333,
+                        "left": 125.333,
+                        "height": 23.334,
+                        "width": 74
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqazqsn005h356gfkeavpze?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqazuhx005k356gev6nkc8f",
+                    "schemaId": "clhqadffh06pb07wo9vf2677y",
+                    "color": "#FF34FF",
+                    "title": "authors",
+                    "value": "authors",
+                    "bbox": {
+                        "top": 146,
+                        "left": 237.333,
+                        "height": 26,
+                        "width": 77.334
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqazuhx005k356gev6nkc8f?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqazzks005n356gxvxxk4qw",
+                    "schemaId": "clhqadffi06pd07wo6lqu9oht",
+                    "color": "#008941",
+                    "title": "keyword",
+                    "value": "keyword",
+                    "bbox": {
+                        "top": 357.333,
+                        "left": 159.333,
+                        "height": 18,
+                        "width": 224.667
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqazzks005n356gxvxxk4qw?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqb04qe005q356g3kb488cs",
+                    "schemaId": "clhqadffi06pf07wohrr8gi47",
+                    "color": "#006FA6",
+                    "title": "publisher",
+                    "value": "publisher",
+                    "bbox": {
+                        "top": 54,
+                        "left": 70,
+                        "height": 18.667,
+                        "width": 106
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqb04qe005q356g3kb488cs?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqb0j07005t356g4u8rr1li",
+                    "schemaId": "clhqadffi06ph07woe7v2e01n",
+                    "color": "#A30059",
+                    "title": "date_of_publication",
+                    "value": "date_of_publication",
+                    "bbox": {
+                        "top": 567.333,
+                        "left": 32,
+                        "height": 16,
+                        "width": 98
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqb0j07005t356g4u8rr1li?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                },
+                {
+                    "featureId": "clhqb0u8d005w356ggiriqysm",
+                    "schemaId": "clhqadffi06pl07wo1a75almm",
+                    "color": "#FFDBE5",
+                    "title": "doc_type",
+                    "value": "doc_type",
+                    "bbox": {
+                        "top": 96,
+                        "left": 28,
+                        "height": 15.333,
+                        "width": 43.333
+                    },
+                    "page": 1,
+                    "unit": "POINTS",
+                    "instanceURI": "https://api.labelbox.com/masks/feature/clhqb0u8d005w356ggiriqysm?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhxMzlsNXAwMWI2MDd6bDNiM3M2a3J1Iiwib3JnYW5pemF0aW9uSWQiOiJjbGhxMzlsMngwMWI1MDd6bGJwZGw3YWpoIiwiaWF0IjoxNjg0MjYzMTA2LCJleHAiOjE2ODY4NTUxMDZ9.mK2qw6cvj8q-Y6xcf8RheDfaghKm5Aa0Kc9IhL5ocQw"
+                }
+            ],
+            "classifications": [],
+            "relationships": []
+        },
+        "Created By": "31sanskrati@gmail.com",
+        "Project Name": "Research paper",
+        "Created At": "2023-05-16T13:23:15.000Z",
+        "Updated At": "2023-05-16T13:23:15.000Z",
+        "Seconds to Label": 139.533,
+        "Seconds to Review": 14.415,
+        "Seconds to Create": 125.118,
+        "External ID": "mathematics-09-01276.pdf",
+        "Global Key": null,
+        "Agreement": -1,
+        "Is Benchmark": 0,
+        "Benchmark Agreement": -1,
+        "Benchmark ID": null,
+        "Dataset Name": "Research Papers",
+        "Reviews": [],
+        "View Label": "https://editor.labelbox.com?project=clhq4t4mc03uh07wkd0fu8lr0&label=clhqaw26l00jd07xx4pwb4pqi",
+        "Has Open Issues": 0,
+        "Skipped": false,
+        "DataRow Workflow Info": {
+            "taskName": "Done",
+            "Workflow History": [
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:35:11.851Z",
+                    "previousTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "previousTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "APPROVE",
+                    "createdAt": "2023-05-16T18:05:49.741Z",
+                    "previousTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "previousTaskName": "Initial review task",
+                    "nextTaskId": "7aa41676-6598-4602-ab2e-026d3d098cfe",
+                    "nextTaskName": "label again"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:23:15.282Z",
+                    "previousTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "previousTaskName": "Initial labeling task",
+                    "nextTaskId": "bbb573dd-93cc-4224-8bf8-8b7e0da44093",
+                    "nextTaskName": "Initial review task"
+                },
+                {
+                    "actorId": "clhq39l5p01b607zl3b3s6kru",
+                    "action": "MOVE",
+                    "createdAt": "2023-05-16T13:23:15.255Z",
+                    "nextTaskId": "8671a68f-86cb-09d2-b26e-ddee33262e94",
+                    "nextTaskName": "Initial labeling task"
+                }
+            ]
+        }
+    }
+]
