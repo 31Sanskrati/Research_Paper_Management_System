@@ -4,6 +4,8 @@ The Research Paper Management System is a sophisticated software solution design
 ## Overview
 Uploading and managing research papers manually can be time-consuming and error-prone. The Research Paper Management System addresses these challenges by automating the extraction of metadata from uploaded papers, eliminating the need for manual data entry. Researchers can easily upload their papers and quickly retrieve them using the system's robust search functionality.
 
+By providing automated metadata extraction, efficient document organization, and robust security measures, the Research Paper Management System simplifies research paper management and enhances productivity for researchers and academics.
+
 ## Key Features
 - **Automatic Metadata Extraction:** Extracts metadata like title, authors, and keywords from uploaded papers, saving time.
 - **Search and Retrieval:** Offers fast and accurate search based on title, author, or keywords.
@@ -39,4 +41,49 @@ Linux/Mac:
 8. Run the application:
 `streamlit run app.py`
 
-*By providing automated metadata extraction, efficient document organization, and robust security measures, the Research Paper Management System simplifies research paper management and enhances productivity for researchers and academics.*
+## Output
+### Database
+<p align="center">
+
+*ER Diagram*
+![ER Diagram](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/Output/ER%20Diagram.png)
+
+*Database tables description*
+![Database](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/Output/database.jpg)
+</p>
+
+### User Interface
+
+<p align="center">
+*Home page 1*
+![Home Page](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/Output/Home.jpg)
+
+*Home page 2*
+![Home Page 2](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/Output/Homepage%202.jpg)
+
+*Home page 3*
+![Home Page 3](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/Output/Homepage%203.jpg)
+
+*Home page 4*
+![Home Page 4](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/Output/Homepage%204.jpg)
+
+*Search page 1*
+![Search Page](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/Output/Search%201.jpg)
+
+*Search page output 1*
+![Search Page Output 1](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/Output/Search%20output.jpg)
+
+*Search page output 2*
+![Search Page Output 2](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/Output/Search%20output%202.jpg)
+
+*Upload page*
+![Upload Page](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/Output/Upload.jpg)
+
+*Login Page*
+![Login Page](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/Output/Login%20page.jpg)
+</p>
+
+## License
+
+
+I have also added my [Presentation](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/RESEARCH%20PAPER%20MANAGEMENT%20SYSTEM.pdf) for this project. Happy Coding! 
