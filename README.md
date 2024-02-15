@@ -54,7 +54,6 @@ Linux/Mac:
 
 ### User Interface
 
-<p align="center">
 *Home page 1*
 ![Home Page](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/Output/Home.jpg)
 
@@ -81,9 +80,8 @@ Linux/Mac:
 
 *Login Page*
 ![Login Page](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/Output/Login%20page.jpg)
-</p>
 
 ## License
-
+[MIT Licence](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/LICENSE)
 
 I have also added my [Presentation](https://github.com/31Sanskrati/Research_Paper_Management_System/blob/main/RESEARCH%20PAPER%20MANAGEMENT%20SYSTEM.pdf) for this project. Happy Coding! 
